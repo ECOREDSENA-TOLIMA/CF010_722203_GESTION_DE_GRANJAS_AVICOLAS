@@ -3,8 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 El componente formativo Buenas prácticas en granjas avícolas, abarca temas relacionados con las actividades, tareas y normas a cumplir garantizando la salud y el bienestar de las aves, obteniendo como beneficio productos y subproductos de alta calidad e inocuidad para el consumidor final; estas normas deben ser cumplidas por el personal que trabaja dentro la granja avícola, personal externo y visitantes, para mantener un control adecuado de la producción y la bioseguridad.
 
     .row.justify-content-center
       .col-lg-10.mb-5
