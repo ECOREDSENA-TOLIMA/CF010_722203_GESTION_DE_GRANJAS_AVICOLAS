@@ -89,7 +89,7 @@
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Tabla 4.
-        span <em>Componentes de la legislación laboral colombiana.</em>
+        span <em>Componentes de la legislación laboral colombiana</em>
       img.d-md-block(src="@/assets/curso/temas/tema5/img-15.svg" data-aos="fade-left")
       figcaption Nota. Ministerio de Salud (2021).
 

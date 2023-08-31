@@ -227,17 +227,17 @@
         i.lista-ul__vineta
         | <strong> Manejo de la iluminación:</strong> es un factor determinante en todas las fases productivas. En la industria avícola, la correcta distribución y uso de la luz en los galpones permite lograr la uniformidad del lote y ayuda a evitar la agrupación de las aves y camas húmedas. Siendo consecuente con lo anterior, en la siguiente tabla, se presentan ejemplos de los diferentes programas de iluminación que se utilizan en las granjas para la optimización del proceso productivo en galpones oscuros y abiertos:
     
-    .col-xl-10.mx-auto.mb-5
-      .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Tabla 1.
-        span <em>Programa de iluminación sugerido en galpones oscuros.</em>
+    .titulo-sexto.color-primario(data-aos="fade-right")
+      h5 Tabla 1.
+      span <em>Programa de iluminación sugerido en galpones oscuros.</em>
+    .col-xl-11.mx-auto.mb-5
       img.d-md-block(src="@/assets/curso/temas/tema3/img-5.svg" data-aos="fade-left")
       figcaption Nota. FENAVI (2019a).
 
-    .col-xl-10.mx-auto.mb-5
-      .titulo-sexto.color-primario(data-aos="fade-right")
-        h5 Tabla 2.
-        span <em>Programa de iluminación sugerido en galpones abiertos.</em>
+    .titulo-sexto.color-primario(data-aos="fade-right")
+      h5 Tabla 2.
+      span <em>Programa de iluminación sugerido en galpones abiertos.</em>
+    .col-xl-7.mx-auto.mb-5
       img.d-md-block(src="@/assets/curso/temas/tema3/img-6.svg" data-aos="fade-left")
       figcaption Nota. FENAVI (2019a).
 

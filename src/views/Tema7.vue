@@ -37,7 +37,7 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Tabla 6.
         span <em>Pautas de espacio vital en gallina ponedora criada en piso.</em>
-      img.d-md-block(src="" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema7/img-2-1.svg" data-aos="fade-left")
       figcaption Nota. AVICOL (2014).
 
     p.mb-5(data-aos="fade-down") Así se representa cómo, según las semanas de vida, se deben ampliar los espacios y la distribución de los comederos y bebederos.

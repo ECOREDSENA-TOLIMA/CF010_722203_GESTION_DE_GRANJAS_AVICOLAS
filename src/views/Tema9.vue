@@ -176,7 +176,7 @@
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 4.
-        span <em>Esquema de Seguridad y Salud en el trabajo en granjas avícolas.</em>
+        span <em>Esquema de Seguridad y Salud en el Trabajo (SST) en granjas avícolas</em>
       img.d-md-block(src="@/assets/curso/temas/tema9/img-7.svg" data-aos="fade-left")
 
     p.mb-5(data-aos="fade-down") En las granjas avícolas, se debe contar con programas establecidos de protección, según la normatividad establecida vigente; a continuación, se presentan algunos ejemplos: 
@@ -188,35 +188,36 @@
         LineaTiempoD.color-primario.mb-5(data-aos="fade-down")
           .row(numero="1" titulo="Señalización")
             .col-md-12.mb-4.mb-md-0
-              p.text-small se deben instalar carteles y letreros que identifiquen los peligros con señales, símbolos o texto, en cada área de trabajo, en todos los equipos y maquinaria, utilizando los colores establecidos, así: rojo (alto, prohibiciones), amarillo (advertencia de peligro), verde (condición segura) y azul (obligación).
+              p.text-small Se deben instalar carteles y letreros que identifiquen los peligros con señales, símbolos o texto, en cada área de trabajo, en todos los equipos y maquinaria, utilizando los colores establecidos, así: rojo (alto, prohibiciones), amarillo (advertencia de peligro), verde (condición segura) y azul (obligación).
 
           .row(numero="2" titulo="Informar las acciones específicas en cada caso de riesgo")
             .col-md-12.mb-4.mb-md-0
-              p.text-small ppppppp 
+              p.text-small Los trabajadores deben ser debidamente capacitados en los factores de riesgo y el protocolo a seguir.
 
           .row(numero="3" titulo="Protección contra incendios")
             .col-md-12.mb-4.mb-md-0
-              p.text-small ppppppp
+              p.text-small Se debe realizar un esquema de ubicación de los extintores según su uso y el personal debe estar capacitado para su uso.
+
 
           .row(numero="4" titulo="Brigadas de emergencia")
             .col-md-12.mb-4.mb-md-0
-              p.text-small ppppppp 
+              p.text-small Todas las empresas deben contar con un equipo de brigada de seguridad para apoyar en una situación de emergencia.
 
           .row(numero="5" titulo="Capacitaciones periódicas de los trabajadores")
             .col-md-12.mb-4.mb-md-0
-              p.text-small ppppppp 
+              p.text-small Las empresas están en la obligación de capacitar a todas sus personas en seguridad y salud en el trabajo. 
               
           .row(numero="6" titulo="POES")
             .col-md-12.mb-4.mb-md-0
-              p.text-small ppppppp 
+              p.text-small Las granjas avícolas deben diseñar los planes operativos estandarizados de cada proceso para minimizar los riesgos. 
 
           .row(numero="7" titulo="Certificaciones médicas")
             .col-md-12.mb-4.mb-md-0
-              p.text-small ppppppp 
+              p.text-small Los trabajadores deben realizarse anualmente una revisión médica de salud ocupacional.
 
           .row(numero="8" titulo="Contar con pausas activas")
             .col-md-12.mb-4.mb-md-0
-              p.text-small ppppppp 
+              p.text-small Ya sea por carteles o letreros, contar con diferentes pausas activas que ayuden al descanso de los trabajadores de su labor cotidiana.  
 
       img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema9/img-8.svg" data-aos="fade-left")
 

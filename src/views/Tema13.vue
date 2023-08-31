@@ -106,7 +106,7 @@
     p.mb-5(data-aos="fade-right") En los planes de producción, la alimentación es uno de los factores determinantes para obtener excelentes resultados en la productividad, estos alimentos deben cumplir con los parámetros establecidos según los requerimientos esenciales que necesita cada ave para su desarrollo, teniendo en cuenta su sistema productivo y etapa de producción, para que pueda transformarse en los productos finales (carne y huevo). Cada productor es libre de escoger la mejor opción, tanto en economía como en rendimiento en sus granjas, por eso se deben implementar los controles de consumo de alimento, ganancia de peso y conversión de alimento.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 Practica de manejo
+      h2#t_1_1 Práctica de manejo
 
     p(data-aos="fade-right") En los planes de producción, las prácticas de manejo son el punto clave para manejar y garantizar una producción avícola, entre las prácticas más representativas en las granjas, se tienen: 
     ul.lista-ul(data-aos="fade-right") 

@@ -39,7 +39,7 @@
         | <strong>Cronograma de trabajo:</strong> el cronograma que más aplica en las granjas avícolas es este, ya que se da un detalle de las actividades que normalmente se llevan a cabo en todos los procesos que se desarrollan en cada fase productiva. Este se aplica generalmente para los administradores de granjas, para llevar un control más acertado sobre las tareas que se realizan en toda la granja.
       li  
         i.lista-ul__vineta
-        | <strong>Microsoft Project:</strong> es un programa que se emplea como cronograma de software, sirve para administrar los diferentes procesos a desarrollar, planes, asignaciones de tareas y recursos, administrar presupuestos, analizar las cargas del trabajo y dar seguimiento a la productividad. Este se puede aplicar en todos los procesos y procedimientos, tanto productivos como administrativos y de presupuesto; las personas encargadas son los directores de granjas.
+        | <strong>Microsoft Project:</strong> es un programa que se emplea como cronograma de <em>software,</em> sirve para administrar los diferentes procesos a desarrollar, planes, asignaciones de tareas y recursos, administrar presupuestos, analizar las cargas del trabajo y dar seguimiento a la productividad. Este se puede aplicar en todos los procesos y procedimientos, tanto productivos como administrativos y de presupuesto; las personas encargadas son los directores de granjas.
 
 
     
