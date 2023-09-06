@@ -7,7 +7,7 @@
         span 10
       h1 Cronograma de actividades
 
-    p(data-aos="fade-right") Los cronogramas de actividades son las programaciones de todas las actividades que se necesitan para el debido funcionamiento y desarrollo de los procesos productivos en las granjas avícolas en un tiempo determinado y con el personal encargado para incrementar la eficacia de la producción, permitiendo ejecutar las tareas en una forma ordenada y eficiente; en estos, se pueden programar las fumigaciones, desinfección, limpieza, aplicación de vitaminas, suplementos, etc. Es muy importante el registro de producción diaria para mantener el control y tomar medidas cuando se requieran; por ende, en las siguientes tablas, se presentan algunos ejemplos adaptados a los procesos diarios y mensuales en granja:
+    p.mb-5(data-aos="fade-right") Los cronogramas de actividades son las programaciones de todas las actividades que se necesitan para el debido funcionamiento y desarrollo de los procesos productivos en las granjas avícolas en un tiempo determinado y con el personal encargado para incrementar la eficacia de la producción, permitiendo ejecutar las tareas en una forma ordenada y eficiente; en estos, se pueden programar las fumigaciones, desinfección, limpieza, aplicación de vitaminas, suplementos, etc. Es muy importante el registro de producción diaria para mantener el control y tomar medidas cuando se requieran; por ende, en las siguientes tablas, se presentan algunos ejemplos adaptados a los procesos diarios y mensuales en granja:
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")

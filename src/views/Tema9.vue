@@ -176,7 +176,7 @@
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 4.
-        span <em>Esquema de Seguridad y Salud en el Trabajo (SST) en granjas avícolas</em>
+        span <em>Esquema de seguridad y salud en el trabajo (SST) en granjas avícolas</em>
       img.d-md-block(src="@/assets/curso/temas/tema9/img-7.svg" data-aos="fade-left")
 
     p.mb-5(data-aos="fade-down") En las granjas avícolas, se debe contar con programas establecidos de protección, según la normatividad establecida vigente; a continuación, se presentan algunos ejemplos: 

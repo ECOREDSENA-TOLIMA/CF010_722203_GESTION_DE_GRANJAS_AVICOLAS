@@ -7,7 +7,13 @@
         span 12
       h1 Parámetros técnicos, económicos y su aplicación
 
-    p.mb-5(data-aos="fade-right") Los cronogramas de actividades son las programaciones de todas las actividades que se necesitan para el debido funcionamiento y desarrollo de los procesos productivos en las granjas avícolas en un tiempo determinado y con el personal encargado para incrementar la eficacia de la producción, permitiendo ejecutar las tareas en una forma ordenada y eficiente; en estos, se pueden programar las fumigaciones, desinfección, limpieza, aplicación de vitaminas, suplementos, etc. Es muy importante el registro de producción diaria para mantener el control y tomar medidas cuando se requieran; por ende, en las siguientes tablas, se presentan algunos ejemplos adaptados a los procesos diarios y mensuales en granja:
+    p(data-aos="fade-right") Son un conjunto de elementos que le permiten al administrador de las granjas avícolas analizar, clasificar y evaluar algunas de las características en el rendimiento de los procesos productivos que se realizan diaria, semanal y anualmente, para tener un enfoque claro sobre la situación del funcionamiento y sostenimiento frente a los mercados y competencias del sector, teniendo en cuenta el crecimiento exponencial que se vive en la industria avícola.
+    p(data-aos="fade-right") Los siguientes son algunos de los indicadores más representativos entre los parámetros técnicos y económicos que se aplican en la industria avícola según el sistema de producción (pollo de engorde o gallina ponedora), todos estos referentes a las condiciones físicas y ambientales de la instalaciones, áreas y alojamiento de las granjas avícolas:
+
+    ul.lista-ul.mb-5(data-aos="fade-down")
+      li 
+        i.lista-ul__vineta
+        | <strong>Instalaciones:</strong> son el conjunto de varios componentes (equipos, materiales) que se necesitan para el montaje, manejo, producción y administración en la granja avícola; para identificar el tipo de instalación, es necesario tener claro el sistema productivo que se va a implementar y las condiciones medio ambientales, también conocer toda la normatividad establecida por las entidades encargadas para los permisos.
 
     .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
