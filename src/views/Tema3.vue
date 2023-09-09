@@ -142,7 +142,7 @@
         p.text-center Limpieza y desinfección del huevo.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 3.1 Especificaciones
+      h2#t_3_1 3.1 Especificaciones
 
     p(data-aos="fade-down") Las especificaciones de las actividades para la industria avícola indican detenidamente cada función que se debe desarrollar durante los planes productivos, manejando los tiempos necesarios dentro de la cadena productiva avícola. En esta, se pueden encontrar dos (2) especificaciones para identificar el correcto funcionamiento y desempeño en los planes productivos y el ciclo de vida, facilitando el manejo de las Buenas Prácticas Avícolas y la aplicación de los protocolos de bioseguridad según la normatividad vigente:
     .col-sm
@@ -179,7 +179,7 @@
           | <strong>Fases productivas:</strong> son las etapas de producción de cada sistema de carne o huevo; para pollo de engorde (preinicio, inicio, levante y engorde) y gallina ponedora (preinicio, inicio, levante, prepostura, postura).
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 3.2 Parámetros técnicos y laborales
+      h2#t_3_2 3.2 Parámetros técnicos y laborales
 
     p(data-aos="fade-down") Los parámetros técnicos y laborales son los elementos que es posible medir y evaluar según el desempeño en el desarrollo o aplicación de estos en cada actividad asignada dentro del proceso productivo, teniendo en cuenta el plan de producción establecido en cada granja avícola. Los parámetros técnicos de las actividades avícolas en el plan de producción son:
     ul.lista-ul.mb-3(data-aos="fade-down")

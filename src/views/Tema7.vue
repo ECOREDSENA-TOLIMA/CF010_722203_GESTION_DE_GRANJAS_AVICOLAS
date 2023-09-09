@@ -19,7 +19,7 @@
     p.mb-5(data-aos="fade-down") Los tipos de instalaciones y alojamientos varían según la región, el clima o el tipo de sistema de producción, para poder garantizar una adecuada disposición de las instalaciones y el uso de los suelos; además, se debe contar con las buenas prácticas de bioseguridad en granjas avícolas, cumpliendo la Resolución 0253.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 7.1 Espacio mínimo vital (densidad)
+      h2#t_7_1 7.1 Espacio mínimo vital (densidad)
 
     p(data-aos="fade-down") Para la industria avícola es necesario manejar la densidad del número de aves por metro cuadrado en cada granja, según el tipo de sistema productivo y fase de producción; para esto, en la Resolución 0253, se presentan las tablas que ayudan a definir el número de pollitos que se quieren alojar o encasetar, teniendo en cuenta el área útil del galpón, la disponibilidad de equipos y la densidad de ocupación recomendada por metro cuadrado y el clima. 
     p.mb-5(data-aos="fade-down") En la siguiente tabla, se especifica con detalle la densidad requerida para las aves.
@@ -43,7 +43,7 @@
     p.mb-5(data-aos="fade-down") Así se representa cómo, según las semanas de vida, se deben ampliar los espacios y la distribución de los comederos y bebederos.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 7.2 Manejo preventivo
+      h2#t_7_2 7.2 Manejo preventivo
 
     p(data-aos="fade-down") El manejo preventivo son todas las actividades que se realizan para evitar el ingreso de agentes patógenos, como bacterias, virus u hongos, a las instalaciones y evitar el deterioro por manejo de estas. Según ICA (2017), dentro de las etapas de la cadena aviar, existen ciertos peligros, que pueden ser de tres tipos: biológicos, químicos y físicos. Dentro del programa de bioseguridad, los más significativos son los agentes infecciosos, que producen una serie de riesgos a los que está expuesta la materia prima, como son las aves, el propio trabajador, el medio que los rodea y la misma comunidad.
     p(data-aos="fade-down") Es importante cumplir con los requerimientos preventivos para evitar grandes pérdidas económicas por el ingreso de agentes extraños o patógenos a las instalaciones de cada granja avícola, ocasionando la disminución de la producción y mortalidad de las aves. Los siguientes son parámetros establecidos para las granjas bioseguras:
@@ -74,7 +74,7 @@
         | Toda la granja debe estar debidamente señalizada.
         
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 7.3 Programación de mantenimiento
+      h2#t_7_3 7.3 Programación de mantenimiento
 
     p.mb-5(data-aos="fade-down") La programación de mantenimiento son todas las labores propuestas en las instalaciones avícolas, según el tipo de producción y sistema, para poder establecer las diferentes actividades a desempeñar en cada sección de la granja con el fin de mantener en excelentes condiciones todas las áreas de producción y no producción. En el siguiente cuadro, se puede apreciar un modelo de programación de mantenimiento de cada área de producción:
 

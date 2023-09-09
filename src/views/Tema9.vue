@@ -18,7 +18,7 @@
               p Para profundizar más al respecto, se recomienda consultar la Resolución 1111 del 2017 y el Decreto 1072, pues este es un tema de gran interés para el gobierno, el empleador y el empleado, ya que se está velando por la integridad, seguridad y bienestar de todo el personal que hace parte de la empresa, al integrar todas las medidas y normas necesarias de control, evitando accidentes, riesgos o enfermedades, mejorando el ambiente laboral y obteniendo mayor productividad y rendimiento en su personal.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 9.1 Tipo de riesgos
+      h2#t_9_1 9.1 Tipo de riesgos
 
     p(data-aos="fade-right")  Una de las principales preocupaciones de las compañías debe ser el control de los riesgos asociados a la salud de los trabajadores y contra sus recursos materiales y financieros. Es así que los accidentes de trabajo y las enfermedades laborales son factores que interfieren con el desarrollo normal de las actividades empresariales, incidiendo negativamente en su productividad y, por consiguiente, amenazando su solidez y permanencia en el mercado, lo cual conlleva graves implicaciones en el ámbito laboral, familiar y social para los trabajadores.
     p.mb-5(data-aos="fade-right")  Los riesgos laborales se clasifican de la siguiente manera:
@@ -72,7 +72,7 @@
         | <strong>Riesgos de posturas.</strong> Esto aplica para el personal de oficina, quienes están constantemente registrando las producciones o llevando los registros de toda la granja.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 9.2 Elementos de protección personal y colectiva
+      h2#t_9_2 9.2 Elementos de protección personal y colectiva
 
     p(data-aos="fade-right")  Los elementos de protección personal son los implementos necesarios que entregan las empresas avícolas para la protección, bienestar y seguridad de sus trabajadores, con el propósito de preservar la salud y la seguridad; además, se debe contar con equipos e implementos de seguridad en correcto funcionamiento y ubicados en lugares visibles y de fácil acceso, como extintores, campanas extractoras de aire, barandas, entre otros.
     p(data-aos="fade-right")  Los elementos de protección mitigan el contacto de peligros con las personas, pero no los elimina, por lo cual son usados para controlar los riesgos y diseñados para el cuidado de las partes del cuerpo que pueden resultar lesionadas al ejecutar una labor en las granjas avícolas.
@@ -222,7 +222,7 @@
       img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema9/img-8.svg" data-aos="fade-left")
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 9.3 Programas de capacitaciones en primeros auxilios
+      h2#t_9_3 9.3 Programas de capacitaciones en primeros auxilios
 
     p(data-aos="fade-down") Los programas de primeros auxilios son las asistencias inmediatas que se prestan a la víctima de un accidente antes de la llegada del personal médico especializado, por lo que todos los trabajadores deben asistir y realizar estas capacitaciones en primeros auxilios para formar las brigadas de emergencia.
     p.mb-5(data-aos="fade-down") Los requisitos mínimos para un programa de primeros auxilios son:

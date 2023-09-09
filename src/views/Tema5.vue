@@ -20,7 +20,7 @@
     p.mb-5(data-aos="fade-right") En la industria de avicultura, cabe mencionar que el empleador es el productor o empresa avícola, quienes realizan una amplia descripción de los perfiles ocupacionales que se necesitan para realizar las diferentes labores y /o funciones en las granjas, los tipos de contratación que emplean pueden ser de manera directa (empresa) o indirecta (bolsas de trabajo) y sus contratos pueden ser fijos o por prestación de servicios, ya que, dentro del marco laboral, en las granjas avícolas se necesitarían personas internas, generalmente, y en ciertas labores, personas externas.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 5.1 Recurso humano
+      h2#t_5_1 5.1 Recurso humano
 
     p(data-aos="fade-right") En la industria avícola, los productores o empresas planifican, organizan y realizan operaciones para producir carne, huevos y crías; para estos procesos, se requiere contar con un excelente componente humano, totalmente calificado y apto para desempeñar las distintas labores o funciones que requieren las empresas avícolas.
     p.mb-5(data-aos="fade-right") Los perfiles o cargos que se requieren en las diferentes empresas o granjas avícolas, según El Tiempo (2001), son:
@@ -82,7 +82,7 @@
               img(src='@/assets/curso/temas/tema5/img-14.png', alt='Texto que describa la imagen')
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 5.2 Normativa
+      h2#t_5_2 5.2 Normativa
 
     p.mb-5(data-aos="fade-right") La legislación laboral está constituida por diferentes componentes normativos, leyes y decretos, que permiten al trabajador conocer los derechos, deberes y obligaciones de todos los actores. En la siguiente tabla, se relacionan los del contexto colombiano. Observe una información al respecto: 
 

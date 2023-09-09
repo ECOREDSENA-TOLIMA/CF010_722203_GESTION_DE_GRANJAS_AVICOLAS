@@ -79,7 +79,7 @@
       figcaption Nota. Adaptado de Orjuela (2014).
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 11.1 Recolección y disposición de residuos
+      h2#t_11_1 11.1 Recolección y disposición de residuos
 
     p(data-aos="fade-right") Los residuos son todo aquello que se considera como un desecho generado en los procesos productivos y económicos de las granjas avícolas, lo cual hay que eliminar. En la actualidad, cada vez más, se enfatiza en la recuperación (transformación) de estos para evitar impactos ambientales; una de las propuestas más utilizadas es la clasificación según el tipo de residuo, a esta práctica se le llama reciclaje y permite el manejo y control según la normatividad vigente. 
     p(data-aos="fade-right") Los residuos se pueden clasificar según su estado físico, en las granjas avícolas, se tiene en cuenta la generación de estos, según su proceso de producción, y generalmente cuentan con un sistema de recolección y disposición. Unos de los más generados son los residuos sólidos y líquidos, que se detallan a continuación.
@@ -145,7 +145,7 @@
     p.mb-5(data-aos="fade-down") Después de desocupados, los recipientes se deben lavar y desinfectar, antes de ser colocados en su respectivo sitio; el manejo de los residuos líquidos dentro de la planta no debe representar un riesgo de contaminación y se deben implementar sistemas de lavado que optimicen el uso de agua.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 11.2 Almacenamiento
+      h2#t_11_2 11.2 Almacenamiento
 
     p.mb-5(data-aos="fade-down") Para el almacenamiento de los residuos, es necesario tener clara su clasificación y contar con espacios (sitio de acopio) establecidos por la normatividad para su almacenaje, cumpliendo con los siguientes parámetros: 
 
@@ -183,7 +183,7 @@
             p Planificar e implementar jornadas de aseo, fumigación y desinfección en sitio de acopio temporal, después de ser recogidos por las empresas responsables y con los respectivos convenios con la granja (recicladores, empresas de servicio público, empresas prestadoras de servicio de recolección de residuos peligrosos), para evitar la generación de contaminación o vectores.
 
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2#t_1_1 11.3 Transporte interno
+      h2#t_11_3 11.3 Transporte interno
 
     p.mb-5(data-aos="fade-down") En las granjas avícolas, es pertinente contar con un transporte interno que se encargue de la recolección de todos los residuos que se generan en cada área de producción y administrativa para un mejor manejo, control y organización, estos deben cumplir parámetros ya establecidos según la normatividad vigente, para un buen desarrollo de recolección y almacenamiento; según Polo (s. f.), se debe implementar en orden, así:    
 
