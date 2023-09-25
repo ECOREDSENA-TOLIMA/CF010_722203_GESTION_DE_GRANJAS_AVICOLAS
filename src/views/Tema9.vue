@@ -122,7 +122,7 @@
               figure
                 img(src='@/assets/curso/temas/tema9/decorador-10.svg', alt='Guantes')
             .col-md-8.col-12
-              p los guantes ayudan a prevenir cualquier tipo de lesión a nivel de las manos, como cortaduras, raspaduras; sirven para tener un mejor agarre al momento de transportar o cargar el alimento concentrado.
+              p Los guantes ayudan a prevenir cualquier tipo de lesión a nivel de las manos, como cortaduras, raspaduras; sirven para tener un mejor agarre al momento de transportar o cargar el alimento concentrado.
 
           .row.justify-content-center.align-items-center(titulo="Botas")
             .col-lg-2.col-10.mb-lg-0.mb-3
@@ -167,17 +167,17 @@
               figure
                 img(src='@/assets/curso/temas/tema9/img-6.png', alt='Texto que describa la imagen')
             .col-md-6.mb-4.mb-md-0
-              p.text-small Es todo estado patológico permanente o temporal que sobrevenga como consecuencia obligada y directa de la clase de trabajo que desempeña el trabajador, en el medio en que se ha visto obligado a trabajar y que ha sido determinado como tal por el Gobierno Nacional. 
+              p.text-small Es todo estado patológico, permanente o temporal que sobrevenga como consecuencia obligada y directa de la clase de trabajo que desempeña el trabajador, en el medio en que se ha visto obligado a trabajar y que ha sido determinado como tal por el Gobierno Nacional. 
 
       img.mb-4.mb-xl-0.col-xl-4.mx-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema9/img-2.svg" data-aos="fade-left")
 
-    p.mb-5(data-aos="fade-down") Es necesario realizar un estudio previo para analizar cada área de la empresa o granja avícola, identificando y clasificando los riesgos laborales, esto con el fin de implementar los métodos de protección realizando cronogramas y listas de chequeo de cada sesión de trabajo, para llevar un control específico de las actividades y oficios laborales que realizan cada empleado. Observe un esquema explicativo al respecto:
+    p.mb-5(data-aos="fade-down") Es necesario realizar un estudio previo para analizar cada área de la empresa o granja avícola, identificando y clasificando los riesgos laborales, esto con el fin de implementar los métodos de protección, realizando cronogramas y listas de chequeo de cada sesión de trabajo, para llevar un control específico de las actividades y oficios laborales que realizan cada empleado. Observe un esquema explicativo al respecto:
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 4.
         span <em>Esquema de seguridad y salud en el trabajo (SST) en granjas avícolas</em>
-      img.d-md-block(src="@/assets/curso/temas/tema9/img-7.svg" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema9/img-7.svg" data-aos="fade-left" alt="En la figura 4 se muestra un esquema de Seguridad y Salud en el trabajo en granjas avícolas.")
 
     p.mb-5(data-aos="fade-down") En las granjas avícolas, se debe contar con programas establecidos de protección, según la normatividad establecida vigente; a continuación, se presentan algunos ejemplos: 
 

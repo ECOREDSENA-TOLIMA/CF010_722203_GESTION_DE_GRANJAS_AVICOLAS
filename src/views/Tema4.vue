@@ -19,7 +19,7 @@
       .tarjeta.color-primario1.p-4
         .row.justify-content-center.mb-3.mx-auto.mt-5
           h3.text-center Protocolo de suministro de agua y alimento basado en buenas prácticas avícolas
-          p.text-center Son todas las actividades que se deben realizar para el correcto manejo del agua de bebida y alimento cumpliendo con todos los requerimientos necesarios para las aves.
+          p.text-center Son todas las actividades que se deben realizar para el correcto manejo del agua de bebida y alimento, cumpliendo con todos los requerimientos necesarios para las aves.
 
       .tarjeta.color-acento-contenido1.p-4
         .row.justify-content-center.mb-3.mx-auto.mt-5

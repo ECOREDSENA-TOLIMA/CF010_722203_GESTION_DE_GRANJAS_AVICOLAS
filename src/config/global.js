@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Buenas prácticas en granjas avícolas',
     descripcionCurso:
-      'Las Buenas Prácticas Avícolas (BPA) son actividades, tareas y normas a cumplir garantizando la salud y el bienestar de las aves, obteniendo como beneficio productos y subproductos de alta calidad e inocuidad para el consumidor final; estas normas deben ser cumplidas por el personal que trabaja dentro la granja avícola, personal externo y visitantes, para mantener un control adecuado de la producción y la bioseguridad.',
+      'Las Buenas Prácticas Avícolas (BPA) son actividades, tareas y normas a cumplir, garantizando la salud y el bienestar de las aves, obteniendo como beneficio productos y subproductos de alta calidad e inocuidad para el consumidor final; estas normas deben ser cumplidas por el personal que trabaja dentro la granja avícola, personal externo y visitantes, para mantener un control adecuado de la producción y la bioseguridad.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
   },

@@ -8,12 +8,12 @@
       h1 Parámetros técnicos, económicos y su aplicación
 
     p(data-aos="fade-right") Son un conjunto de elementos que le permiten al administrador de las granjas avícolas analizar, clasificar y evaluar algunas de las características en el rendimiento de los procesos productivos que se realizan diaria, semanal y anualmente, para tener un enfoque claro sobre la situación del funcionamiento y sostenimiento frente a los mercados y competencias del sector, teniendo en cuenta el crecimiento exponencial que se vive en la industria avícola.
-    p(data-aos="fade-right") Los siguientes son algunos de los indicadores más representativos entre los parámetros técnicos y económicos que se aplican en la industria avícola según el sistema de producción (pollo de engorde o gallina ponedora), todos estos referentes a las condiciones físicas y ambientales de la instalaciones, áreas y alojamiento de las granjas avícolas:
+    p(data-aos="fade-right") Los siguientes son algunos de los indicadores más representativos entre los parámetros técnicos y económicos que se aplican en la industria avícola según el sistema de producción (pollo de engorde o gallina ponedora), todos estos referentes a las condiciones físicas y ambientales de las instalaciones, áreas y alojamiento de las granjas avícolas:
 
     ul.lista-ul.mb-5(data-aos="fade-down")
       li 
         i.lista-ul__vineta
-        | <strong>Instalaciones:</strong> son el conjunto de varios componentes (equipos, materiales) que se necesitan para el montaje, manejo, producción y administración en la granja avícola; para identificar el tipo de instalación, es necesario tener claro el sistema productivo que se va a implementar y las condiciones medio ambientales, también conocer toda la normatividad establecida por las entidades encargadas para los permisos.
+        | <strong>Instalaciones:</strong> son el conjunto de varios componentes (equipos, materiales) que se necesitan para el montaje, manejo, producción y administración en la granja avícola; para identificar el tipo de instalación, es necesario tener claro el sistema productivo que se va a implementar y las condiciones medioambientales, también conocer toda la normatividad establecida por las entidades encargadas para los permisos.
 
     .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-right")
       .bloque-texto-g__img(
@@ -41,7 +41,7 @@
         i.lista-ul__vineta
         | <strong>Alojamiento:</strong> es considerado un aspecto importante para el éxito del sistema productivo, ya que la mayoría de los procesos y manejo de las aves se realizan en ellos, de ahí la importancia de contar con estos y que cumplan con todos los requisitos y necesidades que demandan los animales para su desarrollo, siempre brindándoles confort y bienestar animal, en el que puedan mostrar toda su productividad y potencial genético.
 
-    p(data-aos="fade-right")  Como recomendación, se deben aprovechar los espacios, terrenos, clima y puntos cardinales, ya que todos son necesarios para una buena construcción, por ejemplo, el eje largo del galpón debe estar en dirección norte-sur en climas fríos y oriente-occidente, en climas cálidos, para que el sol caliente adecuadamente en cada clima; el piso debe ser preferiblemente en cemento, ya que garantiza condiciones ambientales y de higiene adecuadas; si es de tierra, debe ser firme o compactada. Se pueden encontrar algunas especificaciones básicas para la construcción de los alojamientos (galpón):
+    p(data-aos="fade-right")  Como recomendación, se deben aprovechar los espacios, terrenos, clima y puntos cardinales, ya que todos son necesarios para una buena construcción, por ejemplo, el eje largo del galpón debe estar en dirección norte-sur en climas fríos y oriente-occidente, en climas cálidos, para que el sol caliente adecuadamente en cada clima; el piso debe ser preferiblemente en cemento, pues garantiza condiciones ambientales y de higiene adecuadas; si es de tierra, debe ser firme o compactada. Se pueden encontrar algunas especificaciones básicas para la construcción de los alojamientos (galpón):
     ul.lista-ul(data-aos="fade-right") 
       li 
         i.lista-ul__vineta

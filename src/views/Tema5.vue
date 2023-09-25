@@ -75,7 +75,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h3 Galponeros
-            p Es la persona dedicada al manejo animal directo, sus funciones y labores están relacionadas con el tipo de sistema productivo; si es pollo de engorde, se encarga de la alimentación, manejo de las camas, limpieza y desinfección del galpón, limpieza y desinfección de los comederos y bebederos, registros, control de plagas, apoyo en la jornadas de vacunación e iluminación; si es gallina ponedora, se encarga de la recolección, clasificación, limpieza y almacenamiento del huevo, también de las labores generales que se aplican en la bioseguridad, como limpieza y desinfección del galpón, manejo de pediluvios, alimentación, control de plagas, diligenciamiento de registros y apoyar las jornadas de vacunación.
+            p Es la persona dedicada al manejo animal directo, sus funciones y labores están relacionadas con el tipo de sistema productivo; si es pollo de engorde, se encarga de la alimentación, manejo de las camas, limpieza y desinfección del galpón, limpieza y desinfección de los comederos y bebederos, registros, control de plagas, apoyo en las jornadas de vacunación e iluminación; si es gallina ponedora, se encarga de la recolección, clasificación, limpieza y almacenamiento del huevo, también de las labores generales que se aplican en la bioseguridad, como limpieza y desinfección del galpón, manejo de pediluvios, alimentación, control de plagas, diligenciamiento de registros y apoyar las jornadas de vacunación.
 
           .col-md-6.px-3
             figure

@@ -7,17 +7,17 @@
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/template/opcion-mutiple-v2.svg", alt="Texto que describa la imagen")
+            img(src="@/assets/template/opcion-multiple.svg", alt="") 
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-acento-contenido
-          h2 Cronograma de actividades
+          h2 Buenas prácticas en granjas avícolas
         p.mb-4 #[b Objetivo:] identificar las buenas prácticas en granjas avícolas con el fin de aplicar los diferentes procedimientos inmersos en ello.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Opción múltiple
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades_ADCF010/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 

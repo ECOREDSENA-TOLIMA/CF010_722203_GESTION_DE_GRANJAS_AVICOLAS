@@ -196,14 +196,14 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 1.
         span <em>Ventilación del galpón</em>
-      img.d-md-block(src="@/assets/curso/temas/tema3/img-2.svg" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema3/img-2.svg" data-aos="fade-left" alt="En la figura 1 se muestra la ventilación de un galpón.")
       figcaption Nota. FENAVI (2019a).
 
     .col-xl-10.mx-auto.mb-5
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 2.
         span <em>Formas de ventilación</em>
-      img.d-md-block(src="@/assets/curso/temas/tema3/img-3.svg" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema3/img-3.svg" data-aos="fade-left" alt="En la figura 2 se muestran las formas de ventilación en una granja avícola.")
       figcaption Nota. FENAVI (2019a).
 
     p(data-aos="fade-down") En las dos figuras, se puede apreciar la forma correcta en que se debe manejar la ventilación de los galpones, ofreciendo comodidad y seguridad a las aves, evitando trastornos a nivel respiratorio y estrés.
@@ -214,7 +214,7 @@
       .titulo-sexto.color-primario(data-aos="fade-right")
         h5 Figura 3.
         span <em>Factores que afectan el control térmico de los galpones</em>
-      img.d-md-block(src="@/assets/curso/temas/tema3/img-4.svg" data-aos="fade-left")
+      img.d-md-block(src="@/assets/curso/temas/tema3/img-4.svg" data-aos="fade-left" alt="En la figura 3 se muestran los factores que afectan el control térmico de los galpones.")
       figcaption Nota. FENAVI (2019a).
 
     p(data-aos="fade-down") Los factores que pueden afectar la temperatura en el ambiente ideal para la producción son: el mal manejo de las camas, la humedad relativa y las corrientes de aire, como se grafican en la anterior figura.
@@ -245,7 +245,7 @@
     ul.lista-ul.mb-3(data-aos="fade-down")
       li 
         i.lista-ul__vineta
-        | <strong>Alimentación:</strong> hace parte de uno de principales parámetros en la industria avícola, ya que se utiliza en todas las fases de producción de vida de las aves; para obtener grandes rendimientos, es necesario tener muy claro cómo se debe realizar el manejo de las raciones, el almacenamiento del alimento y el control de residuos en los comederos, garantizando un equilibrio económico para el productor, ya que se realiza el control de las cantidades necesarias y los nutrientes esenciales para el buen desarrollo de las aves y la obtención de productos. Este es sin duda uno de los principales costos de producción, por lo que resulta importante que las dietas que se suministren proporcionen un balance correcto de energía, proteína, aminoácidos, minerales, vitaminas, ácidos grasos esenciales y agua. 
+        | <strong>Alimentación:</strong> hace parte de uno de principales parámetros en la industria avícola, ya que se utiliza en todas las fases de producción de vida de las aves; para obtener grandes rendimientos, es necesario tener muy claro cómo se debe realizar el manejo de las raciones, el almacenamiento del alimento y el control de residuos en los comederos, garantizando un equilibrio económico para el productor, pues se realiza el control de las cantidades necesarias y los nutrientes esenciales para el buen desarrollo de las aves y la obtención de productos. Este es sin duda uno de los principales costos de producción, por lo que resulta importante que las dietas que se suministren proporcionen un balance correcto de energía, proteína, aminoácidos, minerales, vitaminas, ácidos grasos esenciales y agua. 
     
     p.mb-5(data-aos="fade-down") Es así como, en la siguiente tabla, se presentan los nutrientes básicos y esenciales que deben tener los alimentos como requerimientos indispensables en su nutrición:
     
