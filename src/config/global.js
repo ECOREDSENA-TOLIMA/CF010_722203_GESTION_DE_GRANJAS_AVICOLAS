@@ -83,7 +83,7 @@ export default {
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo: 'Instalaciones y alojamiento avícola',
+        titulo: 'Instalaciones y alojamiento avícolas',
         desarrolloContenidos: true,
         subMenu: [
           {
